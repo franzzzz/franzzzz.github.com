@@ -15,7 +15,7 @@ author :
   name : 王狗蛋
   email : wanggoudaner@gmail.com
   github : franzzzz
-  twitter : franwang
+  twitter : WangNianTao
   feedburner : 
 
 # The production_url is only used when full-domain names are needed
@@ -83,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : wanggoudan
     livefyre :
       site_id : 123
     intensedebate :
