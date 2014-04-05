@@ -9,10 +9,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 默默达
-tagline: 我能挥霍的只有时间了
+title : abc
+tagline: def
 author : Fran Wang
-  name : 王狗蛋
+  name : ghi
   email : wanggoudaner@gmail.com
   github : franzzzz
   twitter : franwang
