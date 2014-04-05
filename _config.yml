@@ -11,8 +11,8 @@ pygments: true
 #
 title : abc
 tagline: def
-author : Fran Wang
-  name : ghi
+author : 
+  name : franwang
   email : wanggoudaner@gmail.com
   github : franzzzz
   twitter : franwang
