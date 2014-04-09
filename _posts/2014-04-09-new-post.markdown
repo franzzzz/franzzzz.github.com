@@ -1,3 +1,12 @@
+---
+layout: post
+title: "日常"
+description: 
+category: daily
+tags: [birthday]
+---
+{% include JB/setup %}
+
 # 日常
 
 ------
