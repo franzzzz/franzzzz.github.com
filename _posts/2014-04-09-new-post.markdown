@@ -7,11 +7,6 @@ tags: [birthday]
 ---
 {% include JB/setup %}
 
-# 日常
-
-------
-
-
 今天要完成就业导论的三个小作业：
 
  1. 简历
