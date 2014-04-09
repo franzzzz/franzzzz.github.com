@@ -1,4 +1,5 @@
 encoding: utf-8
+img_url: http://franzzzz.github.com/assets/images
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:title 
