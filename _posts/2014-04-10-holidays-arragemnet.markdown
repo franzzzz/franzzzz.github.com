@@ -52,7 +52,7 @@ tags: [outline]
  4. 高铁后两小时打电话做题`尽人事知天命`
  5. `机动整理剩余事项`
 
-##那 加油加油！![加油加油][1]
+##那 加油加油！![fight][1]
 
 
-  [1]: http://www.tvscoop.tv/CE+Thai+Boxing+040+shoot+1+Connor.jpg.jpg "加油加油！"
+  [1]: http://www.tvscoop.tv/CE+Thai+Boxing+040+shoot+1+Connor.jpg.jpg 
