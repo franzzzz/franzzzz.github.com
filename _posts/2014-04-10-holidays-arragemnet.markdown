@@ -52,7 +52,21 @@ tags: [outline]
  4. 高铁后两小时打电话做题`尽人事知天命`
  5. `机动整理剩余事项`
 
+如下是外部图片的两种显示方式
+第一种为html
+第二种为markdown
+参考文章[http://equation85.github.io/blog/markdown-examples/]
+
+语法：
+
+    Inline示例：![替代文本](/assets/images/jian.jpg "可选的title")
+    Reference示例：![替代文本][pic]
+    [pic]: /assets/images/ship.jpg "可选的title"
+    HTML示例：<img src="/assets/images/jian.jpg" alt="替代文本" title="标题文本" width="200" />
+
+<img src="http://www.tvscoop.tv/CE+Thai+Boxing+040+shoot+1+Connor.jpg.jpg" alt="替代文本" title="标题文本" width="200" />
 ##那 加油加油！![fight][1]
+
 
 
   [1]: http://www.tvscoop.tv/CE+Thai+Boxing+040+shoot+1+Connor.jpg.jpg 
