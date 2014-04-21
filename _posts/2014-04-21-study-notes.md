@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GRE学习笔记
+title: GRE学习笔记20140421
 description: 
 category: GRE
 tags: [GRE， studynote]
@@ -251,7 +251,7 @@ determination
 
 At   first   转折    but   more   转折
 
-
+起初，我发现她'严肃的模样非常令人畏惧'，但是随着我对她的了解越来越多，我发现她实际上是非常幽默的。
 
 
 
