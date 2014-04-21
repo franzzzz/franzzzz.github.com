@@ -53,8 +53,11 @@ tags: [outline]
  5. `机动整理剩余事项`
 
 如下是外部图片的两种显示方式
+
 第一种为html
+
 第二种为markdown
+
 参考文章[http://equation85.github.io/blog/markdown-examples/]
 
 语法：
