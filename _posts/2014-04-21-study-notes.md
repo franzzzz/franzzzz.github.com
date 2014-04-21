@@ -251,8 +251,61 @@ determination
 
 At   first   转折    but   more   转折
 
-起初，我发现她'严肃的模样非常令人畏惧'，但是随着我对她的了解越来越多，我发现她实际上是非常幽默的。
+起初，我发现她__严肃的模样非常令人畏惧__，但是随着我对她的了解越来越多，我发现她实际上是非常幽默的。
 
+
+
+#Argument
+
+##分析论证句式
+
+1.	The mere fact that ticket sales in recent years for screenplay-based movies have exceeded those for book-based movies is insufficient evidence to conclude that writing screenplays now provides greater financial opportunity for writers.
+
+mere 
+
+	:  an expanse of standing water : lake, pool
+
+exceed
+
+	: to be greater or more than (something) : to be better than (something)
+	: to go beyond the limit of (something)
+
+静态的事实（近年来的售票中（AX超BX））并不能充分的证明（写AX会給作者带来更多的__经济效益__）
+
+2. It is possible that fees paid by movie studios for screenplays will decrease in the future relative to those for book rights.
+
+这是可能的（费用（电影制作公司付给（AX--）->（BX++）））
+
+3. The argument fails to rule out the possibility that a writer engage in both types of writing as well as other types.
+
+rule out 
+
+	1 : exclude, eliminate 
+	2 : to make impossible : prevent <heavy rain ruled out the picnic>
+	排除， 使不可能
+
+文章没有排除可能性（（AX和BX）共存）
+
+4. In any event, the advertisement provides no justification for the choice that it imposes on the writer.
+
+justification
+
+	1 : the act, process, or state of being justified by God
+	2 a : the act or an instance of justifying : vindication 
+	   b : something that justifies
+	3 : the process or result of justifying lines of text
+
+mutually exclusive
+
+	: being related such that each excludes or precludes the other <mutually exclusive events>; also : incompatible <their outlooks were not mutually exclusive> 互斥
+
+impose
+
+	: to cause (something, such as a tax, fine, rule, or punishment) to affect someone or something by using your authority
+	: to establish or create (something unwanted) in a forceful or harmful way
+	: to force someone to accept (something or yourself)
+
+在任何情况下，（广告）都没有（提供（（强加于作者的）理由））。
 
 
 
