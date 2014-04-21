@@ -6,6 +6,7 @@ category: GRE
 tags: [GRE， studynote]
 ---
 {% include JB/setup %}
+
 ---
 
 >6个月 1000小时除以180天 一天有效时间5小时 实际上至少要6－7小时。
@@ -220,7 +221,7 @@ gravity :
 	: a very serious quality or condition : the condition of being grave or serious
 	: the natural force that tends to cause physical things to move towards each other : the force that causes things to fall towards the Earth
 intimidating:
-	: to make timid or fearful : frighten; especially : to compel or deter by or as if by threats <tried to intimidate a witness>
+	: to make timid or fearful : frighten; especially : to compel or deter by or as if by threats 'tried to intimidate a witness'
 laughter:
 	: the action or sound of laughing
 poise:
@@ -232,7 +233,7 @@ determination:
 
 At first 转折 but more 转折
 
-起初，我发现她**严肃的模样非常令人畏惧**，但是随着我对她的了解越来越多，我发现她实际上是非常幽默的。
+起初，我发现她**严肃的模样非常令人畏惧***，但是随着我对她的了解越来越多，我发现她实际上是非常幽默的。
 
 
 #Argument
