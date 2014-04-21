@@ -208,33 +208,6 @@ originality :
 
 far from 转折 lack 转折 空格填creative同义词。
 
-###E1.1
-	
-At first, I found her gravity rather intimidating; but, as I saw more of her, I found that ___ was very near the surface.
-
-	a. seriousness
-	b. confidence
-	c. laughter
-	d. poise
-	e. determination
-
-gravity : 
-	: a very serious quality or condition : the condition of being grave or serious
-	: the natural force that tends to cause physical things to move towards each other : the force that causes things to fall towards the Earth
-intimidating:
-	: to make timid or fearful : frighten; especially : to compel or deter by or as if by threats <tried to intimidate a witness>
-laughter:
-	: the action or sound of laughing
-poise:
-	: to hold (something) in a balanced and steady position
-determination:
-	: a quality that makes you continue trying to do or achieve something that is difficult
-	: the act of finding out or calculating something
-	: the act of officially deciding something
-
-At first 转折 but more 转折
-
-起初，我发现她严肃的模样非常令人畏惧，但是随着我对她的了解越来越多，我发现她实际上是非常幽默的。
 
 
 
