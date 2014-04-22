@@ -1,3 +1,14 @@
+---
+layout: page
+title: GRE学习笔记20140422
+description: 
+category: GRE
+tags: [GRE， studynote]
+---
+{% include JB/setup %}
+
+---
+
 #Argumment
 
 ##argument 分析论证句式
