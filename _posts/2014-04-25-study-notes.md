@@ -16,23 +16,32 @@ tags: [GRE， studynote]
 	17. Lacking more specific information about how these other employee responded, it is impossible to assess the reliability of the survey's results or to make an informed recommendation.
 
 `reliability
-	1 : the quality or state of being reliable
-	2 : the extent to which an experiment, test, or measuring procedure yields the same results on repeated trials`
+
+1 : the quality or state of being reliable
+2 : the extent to which an experiment, test, or measuring procedure yields the same results on repeated trials`
 
 `specific
-	: special or particular
-	: clearly and exactly presented or stated : precise or exact
-	: relating to a particular person, situation, etc.`
+
+: special or particular
+
+: clearly and exactly presented or stated : precise or exact
+
+: relating to a particular person, situation, etc.`
 
 `assess
-	: to make a judgment about (something)
-	: to officially say what the amount, value, or rate of (something) is
-	: to tax or charge (someone or something) : to require (a person, business, etc.) to pay a particular amount of money
+
+: to make a judgment about (something)
+
+: to officially say what the amount, value, or rate of (something) is
+
+: to tax or charge (someone or something) : to require (a person, business, etc.) to pay a particular amount of money
 `
 
 `informed
-	: having information
-	: based on information`
+
+: having information
+
+: based on information`
 
 __因为缺乏更多具体信息关于这些其他职员的回应，所以不可能判断调查结果的可靠性或者`基于信息的推断?`__
 
@@ -48,8 +57,11 @@ __如果这样的话，__即使在改革之后多发生了3％的事故，作者
 	20. The editorial __fails to take into account__ (possible differences) between East and west Cambria) that are relevant to how drivers react to speed-limit changes.
 
 `editorial
+
 1 : of or relating to an editor or editing <an editorial office>
+
 2 : being or resembling an editorial <an editorial statement>
+
 3 : an essay in a newspaper or magazine that gives the opinions of its editors or publishers
 `
 
