@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GRE学习笔记20140423-25
+title: GRE学习笔记20140426
 description: 
 category: GRE
 tags: [GRE， studynote]
