@@ -175,6 +175,28 @@ No styleguide reference.
 --------------------------------------------------------------------------------- */
 /* GLOBAL
 --------------------------------------------------------------------------------- */
+
+.backToTop {
+    display: block;
+    width: 40px;
+    height: 32px;
+    font-size: 26px;
+    line-height: 32px;
+    font-family: verdana, arial;
+    padding: 5px 0;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    _position: absolute;
+    right: 10px;
+    bottom: 100px;
+    _bottom: "auto";
+    cursor: pointer;
+    opacity: .6;
+    filter: Alpha(opacity=60);
+}
+
 html {
   background-color: #ffffff;
   color: #2d2d2d;
@@ -213,7 +235,7 @@ pre {
 /* HEADER
 --------------------------------------------------------------------------------- */
 .the-header .logo {
-  font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
+  font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif, "Microsoft YaHei";
   margin: 0;
 }
 .the-header .logo a:visited {
