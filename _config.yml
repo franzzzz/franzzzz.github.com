@@ -12,12 +12,12 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : 王狗蛋的记事本
-tagline: 我能挥霍的只有时间了
+tagline: 种一棵树最好的是十年前，其次是现在
 author : 
   name : Fran Wang
   email : wanggoudaner@gmail.com
   github : franzzzz
-  twitter : WangNianTao
+  twitter : WangGoudan
   feedburner : 
 
 # The production_url is only used when full-domain names are needed
