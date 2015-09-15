@@ -38,12 +38,15 @@
           <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
         </div>
         {% endif %}
+
+        <iframe width="100%" height="100" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=2&ptype=0&speed=0&skin=1&isTitle=1&noborder=0&isWeibo=0&isFans=0&uid=1352190133&verifier=6eb0bc27&dpc=1"></iframe>
+
         {% if site.author %}
         <div class="misc vcard">
           <h4>about</h4>
           <ul>
             {% if site.author.email %}
-            <h4>{{ site.author.email }}</h4>
+            <li class="contact"><address><span class="fn email">{{ site.author.email }}</span></address></li>
             {% endif %}
             {% if site.author.github %}
             <li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">github</a></li>
